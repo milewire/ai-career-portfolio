@@ -4,12 +4,22 @@ title: AI Portfolio
 
 # Phillip — AI/Cloud Portfolio
 
-**Certs (in progress/earned):** Azure AI-102 • AWS ML • NVIDIA DLI
+![Azure AI-102](https://img.shields.io/badge/Azure-AI--102-blue)
+![AWS MLS-C01](https://img.shields.io/badge/AWS-MLS--C01-orange)
+![NVIDIA DLI](https://img.shields.io/badge/NVIDIA-DLI-brightgreen)
+
+## 👋 About Me
+20+ years in wireless + telecom. Transitioning into AI/Cloud with hands-on MVPs in compliance, security, and automation.
 
 ## 🚀 Projects
-- **SOP Generator (Azure)** — GPT + Cognitive Search → [Repo](https://github.com/USERNAME/sop-generator-azure) • [Live Demo](#)
-- **Compliance Doc Classifier (AWS)** — SageMaker Canvas + Streamlit → [Repo](https://github.com/USERNAME/doc-classifier-aws) • [Live Demo](#)
-- **Vision Inspection (NVIDIA/Roboflow)** — YOLOv8 webcam inference → [Repo](https://github.com/USERNAME/vision-inspection-nvidia) • [Video](#)
+- **SOP Generator (Azure)** — GPT + Cognitive Search → [Repo](https://github.com/USERNAME/sop-generator-azure) • [Live Demo](#)  
+  ![SOP Generator Demo](assets/sop-demo.png)
+
+- **Compliance Doc Classifier (AWS)** — SageMaker Canvas + Streamlit → [Repo](https://github.com/USERNAME/doc-classifier-aws) • [Live Demo](#)  
+  ![Classifier Demo](assets/classifier-demo.png)
+
+- **Vision Inspection (NVIDIA/Roboflow)** — YOLOv8 webcam inference → [Repo](https://github.com/USERNAME/vision-inspection-nvidia) • [Video](#)  
+  ![Vision Demo](assets/vision-demo.png)
 
 ## 📜 Case Studies
 - **SOP Generator**: Problem → manual SOP writing; **AI** → Azure OpenAI + Cognitive Search; **Outcome** → draft SOP in minutes.
@@ -20,4 +30,5 @@ title: AI Portfolio
 Azure • AWS • NVIDIA DLI • Streamlit • LangChain • Roboflow
 
 ## 📬 Contact
-LinkedIn: <https://www.linkedin.com/in/phillip-l-smith/> • Email: <plsmith6791@gmail.com>
+- 💼 [LinkedIn](https://linkedin.com/in/phillip-l-smith)  
+- 📧 plsmith6791@gmail.com

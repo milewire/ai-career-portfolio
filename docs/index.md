@@ -1,16 +1,23 @@
-# Welcome to My Portfolio
+---
+title: AI Portfolio
+---
 
-This site is built with **GitHub Pages**.
+# Phillip — AI/Cloud Portfolio
 
-## About Me
-I am building expertise in AI, telecom, and compliance automation.
+**Certs (in progress/earned):** Azure AI-102 • AWS ML • NVIDIA DLI
 
-## Projects
-- **AI Helpdesk Automation** – Power Automate agent with Teams/Email integration.
-- **Medical Kit Tracker** – Computer vision model to validate sterile trays.
-- **Telecom AI** – RAN congestion prediction & RF inspection tools.
+## 🚀 Projects
+- **SOP Generator (Azure)** — GPT + Cognitive Search → [Repo](https://github.com/USERNAME/sop-generator-azure) • [Live Demo](#)
+- **Compliance Doc Classifier (AWS)** — SageMaker Canvas + Streamlit → [Repo](https://github.com/USERNAME/doc-classifier-aws) • [Live Demo](#)
+- **Vision Inspection (NVIDIA/Roboflow)** — YOLOv8 webcam inference → [Repo](https://github.com/USERNAME/vision-inspection-nvidia) • [Video](#)
 
-## Contact
-- 📧 Email: PhillipSmith@milewireai.onmicrosoft.com
-- 🌐 Website: [milewire.io](https://milewire.io)
-- 💼 LinkedIn: [Milewire AI](https://linkedin.com/company/phillip-l-smith)
+## 📜 Case Studies
+- **SOP Generator**: Problem → manual SOP writing; **AI** → Azure OpenAI + Cognitive Search; **Outcome** → draft SOP in minutes.
+- **Doc Classifier**: Problem → routing compliance docs; **AI** → SageMaker model; **Outcome** → instant tagging + risk note.
+- **Vision Demo**: Problem → kit verification; **AI** → YOLOv8; **Outcome** → pass/fail + missing-item list.
+
+## 🧰 Stack
+Azure • AWS • NVIDIA DLI • Streamlit • LangChain • Roboflow
+
+## 📬 Contact
+LinkedIn: https://www.linkedin.com/in/phillip-l-smith/ • Email: plsmith6791@gmail.com

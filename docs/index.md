@@ -20,4 +20,4 @@ title: AI Portfolio
 Azure • AWS • NVIDIA DLI • Streamlit • LangChain • Roboflow
 
 ## 📬 Contact
-LinkedIn: https://www.linkedin.com/in/phillip-l-smith/ • Email: plsmith6791@gmail.com
+LinkedIn: <https://www.linkedin.com/in/phillip-l-smith/> • Email: <plsmith6791@gmail.com>

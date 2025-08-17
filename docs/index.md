@@ -12,15 +12,18 @@ title: AI Portfolio
 20+ years in wireless + telecom. Transitioning into AI/Cloud with hands-on MVPs in compliance, security, and automation.
 
 ## 🚀 Projects
-- **SOP Generator (Azure)** — GPT + Cognitive Search → [Repo](https://github.com/USERNAME/sop-generator-azure) • [Live Demo](#)  
-  ![SOP Generator Demo](assets/sop-demo.png)
+- **Azure SOP Generator** — GPT-4o + Cognitive Search for healthcare SOP automation  
+  → [Repo](https://github.com/milewire/clinical-compliance-ai) • [Live Demo](#)  
+  ![Azure SOP Demo](assets/sop-demo.png)
 
-- **Compliance Doc Classifier (AWS)** — SageMaker Canvas + Streamlit → [Repo](https://github.com/USERNAME/doc-classifier-aws) • [Live Demo](#)  
-  ![Classifier Demo](assets/classifier-demo.png)
+- **AWS Compliance Doc Classifier** — SageMaker + Streamlit app for regulatory document classification  
+  → [Repo](https://github.com/milewire/rag-compliance-agent) • [Live Demo](#)  
+  ![AWS Classifier Demo](assets/classifier-demo.png)
 
-- **Vision Inspection (NVIDIA/Roboflow)** — YOLOv8 webcam inference → [Repo](https://github.com/USERNAME/vision-inspection-nvidia) • [Video](#)  
-  ![Vision Demo](assets/vision-demo.png)
-
+- **NVIDIA Vision Inspection** — YOLOv8 + Roboflow for real-time telecom equipment inspection  
+  → [Repo](https://github.com/milewire/demo-medkit-inspection) • [Video](#)  
+  ![NVIDIA Vision Demo](assets/vision-demo.png)
+  
 ## 📜 Case Studies
 - **SOP Generator**: Problem → manual SOP writing; **AI** → Azure OpenAI + Cognitive Search; **Outcome** → draft SOP in minutes.
 - **Doc Classifier**: Problem → routing compliance docs; **AI** → SageMaker model; **Outcome** → instant tagging + risk note.

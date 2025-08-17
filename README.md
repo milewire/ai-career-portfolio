@@ -6,9 +6,9 @@ It contains multiple end-to-end MVP projects demonstrating applied skills in **M
 ---
 
 ## 📌 Certifications in Progress
-- Microsoft Certified: Azure AI Engineer Associate (AI-102) – Target: [Date]
-- AWS Certified Machine Learning Specialty – Target: [Date]
-- NVIDIA Certified Developer: AI/Deep Learning – Target: [Date]
+- Microsoft Certified: Azure AI Engineer Associate (AI-102) – Target: 10-5-2025
+- AWS Certified Machine Learning Specialty – Target: 10-26-2025
+- NVIDIA Certified Developer: AI/Deep Learning – Target: 11-16-2025
 
 ---
 

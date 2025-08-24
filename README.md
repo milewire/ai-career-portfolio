@@ -20,10 +20,12 @@ Each project is structured in its own folder with:
 - **Screenshots or Diagrams**
 
 ### Project List
+
 1. **Clinical SOP Compliance Agent (Azure)** – GPT-powered agent that validates and generates SOPs for clinical research workflows.
 2. **SmartSite Inspector (AWS)** – AI-based computer vision tool for telecom/IT rack inspections.
 3. **Med Kit Tracker (NVIDIA Jetson / CV)** – Object detection system for outpatient surgical kit verification.
 4. **AI Helpdesk Agent (Azure + Power Automate)** – Automated ticket routing with LLM integration.
+5. **NetOps AI Pipeline (Railway)** – Enterprise AI-powered network monitoring system with anomaly detection and log analysis.
 
 ---
 

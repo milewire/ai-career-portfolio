@@ -1,6 +1,6 @@
 # AI Career Track 2025 – Portfolio
 
-"Portfolio of production-ready AI/ML applications, cloud automation systems, and compliance solutions built across Python, Typescript, Node.js, Microsoft Azure, AWS, NVIDIA, Railway, and Vercel ecosystems. Demonstrates enterprise-level AI engineering and full-stack development capabilities."It contains multiple end-to-end MVP projects demonstrating applied skills in **Microsoft Azure, AWS, NVIDIA AI and other frameworks**.
+Portfolio of production-ready AI/ML applications, cloud automation systems, and compliance solutions built across Python, Typescript, Node.js, Microsoft Azure, AWS, NVIDIA, Railway, and Vercel ecosystems. Demonstrates enterprise-level AI engineering and full-stack development capabilities."It contains multiple end-to-end MVP projects demonstrating applied skills in **Microsoft Azure, AWS, NVIDIA AI and other frameworks**.
 
 ---
 

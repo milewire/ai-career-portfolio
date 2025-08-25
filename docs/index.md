@@ -9,11 +9,12 @@ title: AI Portfolio
 ![NVIDIA DLI](https://img.shields.io/badge/NVIDIA-DLI-brightgreen)
 
 ## 👋 About Me
-20+ years in wireless + telecom. Transitioning into AI/Cloud with hands-on MVPs in compliance, security, and automation.
+
+Portfolio of enterprise AI/ML solutions, cloud automation platforms, and compliance systems built across Microsoft Azure, AWS, and NVIDIA ecosystems. Showcases advanced AI engineering, full-stack development, and production deployment expertise."
 
 ## 🚀 Projects
 
-- **netops-ai-pipeline** — Enterprise AI-Powered Network Monitoring & Anomaly Detection System 
+- **netops-ai-pipeline** — Enterprise AI-Powered Network Monitoring & Anomaly Detection System
   → [Repo](https://netops-ai-pipeline-production.up.railway.app/) • [Live Demo](#)  
   ![Python Networks KPI Demo](assets/netops-demo.png)
 
@@ -30,13 +31,16 @@ title: AI Portfolio
   ![NVIDIA Vision Demo](assets/vision-demo.png)
   
 ## 📜 Case Studies
+
 - **SOP Generator**: Problem → manual SOP writing; **AI** → Azure OpenAI + Cognitive Search; **Outcome** → draft SOP in minutes.
 - **Doc Classifier**: Problem → routing compliance docs; **AI** → SageMaker model; **Outcome** → instant tagging + risk note.
 - **Vision Demo**: Problem → kit verification; **AI** → YOLOv8; **Outcome** → pass/fail + missing-item list.
 
 ## 🧰 Stack
+
 Azure • AWS • NVIDIA DLI • Streamlit • LangChain • Roboflow
 
 ## 📬 Contact
+
 - 💼 [LinkedIn](https://linkedin.com/in/phillip-l-smith)  
 - 📧 plsmith6791@gmail.com

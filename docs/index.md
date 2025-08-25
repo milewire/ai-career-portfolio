@@ -20,16 +20,15 @@ Portfolio of enterprise AI/ML solutions, cloud automation platforms, and complia
 
 - **Azure SOP Generator** — GPT-4o + Cognitive Search for healthcare SOP automation  
   Repo: Private / Coming soon • Demo: Coming soon  
-  ![Azure SOP Demo](assets/sop-demo.png)
+  *Demo screenshot coming soon*
 
 - **AWS Compliance Doc Classifier** — SageMaker + Streamlit app for regulatory document classification  
   Repo: Private / Coming soon • Demo: Coming soon  
-  ![AWS Classifier Demo](assets/classifier-demo.png)
+  *Demo screenshot coming soon*
 
 - **NVIDIA Vision Inspection** — YOLOv8 + Roboflow for real-time telecom equipment inspection  
   Repo: Private / Coming soon • Video: Coming soon  
-  ![NVIDIA Vision Demo](assets/vision-demo.png)
-...existing code...
+  *Demo screenshot coming soon*
 
 ## 📜 Case Studies
 

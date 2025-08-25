@@ -12,16 +12,21 @@ title: AI Portfolio
 20+ years in wireless + telecom. Transitioning into AI/Cloud with hands-on MVPs in compliance, security, and automation.
 
 ## 🚀 Projects
+
+- **netops-ai-pipeline** — Enterprise AI-Powered Network Monitoring & Anomaly Detection System 
+  → [Repo](https://netops-ai-pipeline-production.up.railway.app/) • [Live Demo](#)  
+  ![Python Networks KPI Demo](assets/netops-demo.png)
+
 - **Azure SOP Generator** — GPT-4o + Cognitive Search for healthcare SOP automation  
-  → [Repo](https://github.com/milewire/clinical-compliance-ai) • [Live Demo](#)  
+  → [Repo](https://example.com) • [Live Demo](#)  
   ![Azure SOP Demo](assets/sop-demo.png)
 
 - **AWS Compliance Doc Classifier** — SageMaker + Streamlit app for regulatory document classification  
-  → [Repo](https://github.com/milewire/rag-compliance-agent) • [Live Demo](#)  
+  → [Repo](https://example.com) • [Live Demo](#)  
   ![AWS Classifier Demo](assets/classifier-demo.png)
 
 - **NVIDIA Vision Inspection** — YOLOv8 + Roboflow for real-time telecom equipment inspection  
-  → [Repo](https://github.com/milewire/demo-medkit-inspection) • [Video](#)  
+  → [Repo](https://example.com) • [Video](#)  
   ![NVIDIA Vision Demo](assets/vision-demo.png)
   
 ## 📜 Case Studies

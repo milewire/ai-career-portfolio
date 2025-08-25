@@ -15,21 +15,22 @@ Portfolio of enterprise AI/ML solutions, cloud automation platforms, and complia
 ## 🚀 Projects
 
 - **netops-ai-pipeline** — Enterprise AI-Powered Network Monitoring & Anomaly Detection System
-  → [Repo](https://netops-ai-pipeline-production.up.railway.app/) • [Live Demo](#)  
+  → [Live Demo](https://netops-ai-pipeline-production.up.railway.app/)  
   ![Python Networks KPI Demo](assets/netops-demo.png)
 
 - **Azure SOP Generator** — GPT-4o + Cognitive Search for healthcare SOP automation  
-  → [Repo](https://example.com) • [Live Demo](#)  
+  Repo: Private / Coming soon • Demo: Coming soon  
   ![Azure SOP Demo](assets/sop-demo.png)
 
 - **AWS Compliance Doc Classifier** — SageMaker + Streamlit app for regulatory document classification  
-  → [Repo](https://example.com) • [Live Demo](#)  
+  Repo: Private / Coming soon • Demo: Coming soon  
   ![AWS Classifier Demo](assets/classifier-demo.png)
 
 - **NVIDIA Vision Inspection** — YOLOv8 + Roboflow for real-time telecom equipment inspection  
-  → [Repo](https://example.com) • [Video](#)  
+  Repo: Private / Coming soon • Video: Coming soon  
   ![NVIDIA Vision Demo](assets/vision-demo.png)
-  
+...existing code...
+
 ## 📜 Case Studies
 
 - **SOP Generator**: Problem → manual SOP writing; **AI** → Azure OpenAI + Cognitive Search; **Outcome** → draft SOP in minutes.
